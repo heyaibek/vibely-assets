@@ -1,0 +1,100 @@
+{
+  "base_url": "https://github.com/heyaibek/vibely-assets/raw/main/videos",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Samples"
+    },
+    {
+      "id": 2,
+      "name": "@kanyush21"
+    }
+  ],
+  "videos": [
+    {
+      "id": "vibely_001_samples_black-screen",
+      "category": 1,
+      "title": "Black Screen"
+    },
+    {
+      "id": "vibely_001_samples_neon-tunnel",
+      "category": 1,
+      "title": "Neon Tunnel"
+    },
+    {
+      "id": "vibely_002_@kanyush21_aden",
+      "category": 2,
+      "title": "Aden"
+    },
+    {
+      "id": "vibely_002_@kanyush21_amaro",
+      "category": 2,
+      "title": "Amaro"
+    },
+    {
+      "id": "vibely_002_@kanyush21_celestial-harmony",
+      "category": 2,
+      "title": "Celestial Harmony"
+    },
+    {
+      "id": "vibely_002_@kanyush21_hefe",
+      "category": 2,
+      "title": "Hefe"
+    },
+    {
+      "id": "vibely_002_@kanyush21_hudson",
+      "category": 2,
+      "title": "Hudson"
+    },
+    {
+      "id": "vibely_002_@kanyush21_inkwell",
+      "category": 2,
+      "title": "Inkwell"
+    },
+    {
+      "id": "vibely_002_@kanyush21_mayfair",
+      "category": 2,
+      "title": "Mayfair"
+    },
+    {
+      "id": "vibely_002_@kanyush21_moonlit-serenade",
+      "category": 2,
+      "title": "Moonlit Serenade"
+    },
+    {
+      "id": "vibely_002_@kanyush21_nashville",
+      "category": 2,
+      "title": "Nashville"
+    },
+    {
+      "id": "vibely_002_@kanyush21_perpetua",
+      "category": 2,
+      "title": "Perpetua"
+    },
+    {
+      "id": "vibely_002_@kanyush21_presto",
+      "category": 2,
+      "title": "Presto"
+    },
+    {
+      "id": "vibely_002_@kanyush21_rise",
+      "category": 2,
+      "title": "Rise"
+    },
+    {
+      "id": "vibely_002_@kanyush21_sierra",
+      "category": 2,
+      "title": "Sierra"
+    },
+    {
+      "id": "vibely_002_@kanyush21_valencia",
+      "category": 2,
+      "title": "Valencia"
+    },
+    {
+      "id": "vibely_002_@kanyush21_willow",
+      "category": 2,
+      "title": "Willow"
+    }
+  ]
+}
